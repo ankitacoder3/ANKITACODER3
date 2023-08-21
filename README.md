@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ###
-### This is Ankita. I am an AI-ML enthusiast.
-
+### This is Ankita. I am an Artificial Intelligence - Machine Learning enthusiast. I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. I have also had the opportunity to work on cutting-edge technologies in AI-ML in the various internships. In one of the internships, I built an AI-ML model that will give the logic of the energy production experiments, they were working on, and hence help them in producing excess energy. In another internship, I built an AI-ML model, using Convolution Neural Networks (for image detection and classification) . 
 <!--
 **ankitacoder3/ANKITACODER3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

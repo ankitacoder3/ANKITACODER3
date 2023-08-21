@@ -1,5 +1,4 @@
 ### Hello there 👋
-
 ### This is Ankita. 
 ### ⚡ I am an Artificial Intelligence - Machine Learning enthusiast.
 

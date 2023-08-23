@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### This is Ankita. 
-### ⚡ I am an Artificial Intelligence - Machine Learning enthusiast.
+#### ⚡ I am an Artificial Intelligence - Machine Learning enthusiast.
 
 ###
 #### ⚡ AI-ML projects : Movie recommendation model, Telecom churn prediction model, etc. 

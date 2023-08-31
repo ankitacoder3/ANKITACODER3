@@ -12,7 +12,7 @@
 ###
 #### 📫 LinkedIn : www.linkedin.com/in/ankita-sahoo-20bb39224
 
-[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)
+#[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
 <!--

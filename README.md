@@ -1,7 +1,8 @@
 ### Hello there 👋
 ### This is Ankita, a final year Computer Science Engineering student.
 ### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
-
+</br>
+</br>
 ###
 ## 🔭 Projects : 
 #### Movie Recommendation Model ( AI-ML project )
@@ -10,6 +11,8 @@
 #### SmartCity ( Java-MVC project ) 
 #### Monolith-2-Micro ( Docker-Cloud project)
 ###
+</br>
+</br>
 <!--### I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. 
 ### I have also had the opportunity to work on cutting-edge technologies in AI-ML in the various internships. In one of the internships, I built an AI-ML model that will give the logic of the energy production experiments, they were working on, and hence help them in producing excess energy. In another internship, I built an AI-ML model, using Convolution Neural Networks (for image detection and classification). -->
 
@@ -19,6 +22,8 @@
 #### IOT (Arduino)
 #### 
 ###
+</br>
+</br>
 ## 📫 Connect with me :  
 <a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ankita Sahoo | LinkedIn" width="21px"/></a>
 </br>

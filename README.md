@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### This is Ankita, a final year Computer Science Engineering student.
-### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
+### ⚡ I am an Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
 </br>
 </br>
 

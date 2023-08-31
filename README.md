@@ -10,9 +10,8 @@
 
 #### 🔭 Technologies : Web Development (MERN full stack, HTML, CSS, JavaScript), Databases (MongoDB, MySQL), IOT (Arduino), etc.
 ###
-#### 📫 LinkedIn : www.linkedin.com/in/ankita-sahoo-20bb39224
-
-<a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
+#### 
+<a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ankita Sahoo | LinkedIn" width="21px"/></a>
 
 <!--[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)-->
 [![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)

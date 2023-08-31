@@ -13,8 +13,7 @@
 #### 📫 LinkedIn : www.linkedin.com/in/ankita-sahoo-20bb39224
 
 <!--[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)-->
-<!--[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)-->
-[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3)](https://github.com/ankitacoder3)
+[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
 <!--
 **ankitacoder3/ANKITACODER3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

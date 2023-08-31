@@ -3,16 +3,16 @@
 #### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
 
 ###
-#### ⚡ AI-ML projects : Movie recommendation model, Telecom churn prediction model, etc. 
+#### 🔭 AI-ML projects : Movie recommendation model, Telecom churn prediction model, etc. 
 ###
 <!--### I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. 
 ### I have also had the opportunity to work on cutting-edge technologies in AI-ML in the various internships. In one of the internships, I built an AI-ML model that will give the logic of the energy production experiments, they were working on, and hence help them in producing excess energy. In another internship, I built an AI-ML model, using Convolution Neural Networks (for image detection and classification). -->
 
-#### 🔭 Technologies : Web Development (MERN full stack, HTML, CSS, JavaScript), Databases (MongoDB, MySQL), IOT (Arduino), etc.
+#### 💼 Technical Skills : Web Development (MERN full stack, HTML, CSS, JavaScript), Databases (MongoDB, MySQL), IOT (Arduino), etc.
 ###
 #### 📫 Contacts :  <a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ankita Sahoo | LinkedIn" width="21px"/></a>
 
-💼 Technical Skills
+<!---💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)-->
 
 <!--[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)-->
 [![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)

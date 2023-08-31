@@ -21,8 +21,6 @@
 #### Web Development (MERN full stack, HTML, CSS, JavaScript)
 #### Databases (MongoDB, MySQL)
 #### IOT (Arduino)
-#### 
-###
 </br>
 </br>
 

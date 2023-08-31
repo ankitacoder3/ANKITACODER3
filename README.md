@@ -23,8 +23,11 @@
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)-->
 
+## 📈 GitHub Stats 
 <!--[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)-->
 [![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/ankitacoder3)](https://github.com/ankitacoder3)
+
 <!--
 **ankitacoder3/ANKITACODER3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

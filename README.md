@@ -17,10 +17,13 @@
 <!--### I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. 
 ### I have also had the opportunity to work on cutting-edge technologies in AI-ML in the various internships. In one of the internships, I built an AI-ML model that will give the logic of the energy production experiments, they were working on, and hence help them in producing excess energy. In another internship, I built an AI-ML model, using Convolution Neural Networks (for image detection and classification). -->
 
-## 💼 Technical Skills : 
+## 💼 Technical Skills :
+#### Languages (Python, C, Java, C++)
+#### Artificial Intelligence - Machine Learning (Python)
 #### Web Development (MERN full stack, HTML, CSS, JavaScript)
 #### Databases (MongoDB, MySQL)
 #### IOT (Arduino)
+
 </br>
 </br>
 

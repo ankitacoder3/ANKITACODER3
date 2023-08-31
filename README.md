@@ -1,7 +1,6 @@
 
-### Hello there👋
-### I am <h4> Ankita </h4>
-### A final year Computer Science Engineering student.
+### Hello there 👋
+### I am Ankita, a final year Computer Science Engineering student.
 ### ⚡ I am an Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
 </br>
 </br>

@@ -1,5 +1,5 @@
 ### Hello there 👋
-### This is Ankita.
+### This is Ankita. A final year Computer Science Engineering student.
 #### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
 
 ###

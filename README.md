@@ -1,5 +1,5 @@
 ### Hello there 👋
-### This is Ankita, a Final year student at PES University
+### This is Ankita.
 #### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
 
 ###

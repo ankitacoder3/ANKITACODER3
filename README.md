@@ -3,7 +3,6 @@
 ### ⚡ An Artificial Intelligence - Machine Learning enthusiast.
 </br>
 </br>
-###
 ## 🔭 Projects : 
 #### Movie Recommendation Model ( AI-ML project )
 #### Telecom Churn Prediction Model ( AI-ML project ) 

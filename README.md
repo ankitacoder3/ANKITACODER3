@@ -12,7 +12,7 @@
 ###
 #### 📫 LinkedIn : www.linkedin.com/in/ankita-sahoo-20bb39224
 
-<a href=”https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 <!--[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)-->
 [![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)

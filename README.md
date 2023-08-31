@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-### Hello there 👋
-### This is Ankita, a final year Computer Science Engineering student.
+
+### Hello there👋
+### I am <h4> Ankita </h4>
+### A final year Computer Science Engineering student.
 ### ⚡ I am an Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
 </br>
 </br>

@@ -68,6 +68,14 @@
 
 
 
+<h3>Trophies </h3>
+
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ankitacoder3" alt="ankitacoder3" /> </p>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitacoder3" alt="ankitacoder3" /></a> </p>-->
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitacoder3&show_icons=true&locale=en&layout=compact" alt="ankitacoder3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitacoder3&show_icons=true&locale=en" alt="ankitacoder3" /></p>
@@ -77,13 +85,6 @@
 <br>
 
 
-
-<h3>Trophies </h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitacoder3" alt="ankitacoder3" /></a> </p>
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitacoder3" alt="ankitacoder3" /></a> </p>-->
 
 
 

@@ -75,10 +75,11 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitacoder3" alt="ankitacoder3" /></a> </p>-->
 <br>
+<h3> Other Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitacoder3&show_icons=true&locale=en&layout=compact" alt="ankitacoder3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitacoder3&show_icons=true&locale=en" alt="ankitacoder3" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitacoder3&show_icons=true&locale=en" alt="ankitacoder3" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitacoder3&" alt="ankitacoder3" /></p>
 

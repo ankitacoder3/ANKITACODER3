@@ -62,8 +62,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitacoder3&label=Profile%20views&color=0e75b6&style=flat" alt="ankitacoder3" /> </p>
 
-[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
-[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3)
+<!--[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
+[![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3) -->
 <!---[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://github.com/ankitacoder3)--->
 
 

@@ -2,7 +2,7 @@
 ### Hello there 👋
 ### This is Ankita, a final year Computer Science Engineering student.
 ### ⚡ An Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
-###
+</br>
 
 
 <!--### I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. 

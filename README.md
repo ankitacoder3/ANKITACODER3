@@ -61,10 +61,8 @@
 ## 📈 GitHub Stats 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitacoder3&label=Profile%20views&color=0e75b6&style=flat" alt="ankitacoder3" /> </p>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitacoder3&label=Stars&color=0e75b6&style=flat" alt="ankitacoder3" /> </p>
 
 <!--[![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitacoder3&layout=compact)](https://github.com/ankitacoder3)
 [![Ankita’s github stats](https://github-readme-stats.vercel.app/api?username=ankitacoder3)](https://github.com/ankitacoder3) -->

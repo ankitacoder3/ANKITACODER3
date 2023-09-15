@@ -28,13 +28,18 @@
 
 <br>
 
-### 💼 Technical Skills
-#### ☑️ Programming Languages: Python, C, Java, C++
-#### ☑️ Artificial Intelligence - Machine Learning: Python
-#### ☑️ Web Development: MERN Full Dtack, HTML, CSS, JavaScript
-#### ☑️ Databases: MongoDB, MySQL
-#### ☑️ Internet Of Things (IOT): Arduino
-#### ☑️ Augmented Reality (AR): Unity GameEngine
+<details>
+
+<summary>💼 Technical Skills</summary> 
+<li> ☑️ **Programming Languages:** Python, C, Java, C++ </li>
+<li> ☑️ **Artificial Intelligence - Machine Learning:** Python </li>
+<li> ☑️ Web Development: MERN Full Dtack, HTML, CSS, JavaScript </li>
+<li> ☑️ Databases: MongoDB, MySQL </li>
+<li> ☑️ Internet Of Things (IOT): Arduino </li>
+<li> ☑️ Augmented Reality (AR): Unity GameEngine </li>
+
+</details>
+
 
 
 

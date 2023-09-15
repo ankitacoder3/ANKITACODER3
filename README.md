@@ -9,18 +9,7 @@
 <!--### I have worked on several projects in the field of AI-ML. During my last few semesters, me and my team built various AI-ML models, like movie recommendation model, telecom churn prediction model, etc. 
 ### I have also had the opportunity to work on cutting-edge technologies in AI-ML in the various internships. In one of the internships, I built an AI-ML model that will give the logic of the energy production experiments, they were working on, and hence help them in producing excess energy. In another internship, I built an AI-ML model, using Convolution Neural Networks (for image detection and classification). -->
 
-## 🔭 Projects 
-#### ✨ ```MOVICO``` - Movie Recommendation Model    [AI-ML project] 
-#### ✨ ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] ..
-#### ✨ ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] .
-#### ✨ ```M-SCITY```- SmartCity  [ Java-MVC project ] .
-#### ✨```Mono-2-Micro``` - Converting Monolith architecture into Microservices architecture [Docker-Cloud project]
-#### ✨ ```IProcess``` - Image Processing project [Python-Linear Algebra project] .. 
-#### ✨ ```VOTEHUB``` - Fingerprint Voting System [ MERN Stack project ] .
-###
 
-</br>
-</br>
 
 
 ## ⚒️ Languages and Tools
@@ -31,17 +20,31 @@
 <details>
 
 <summary>💼 Technical Skills</summary> 
-<li> ☑️ **Programming Languages:** Python, C, Java, C++ </li>
-<li> ☑️ **Artificial Intelligence - Machine Learning:** Python </li>
-<li> ☑️ Web Development: MERN Full Dtack, HTML, CSS, JavaScript </li>
-<li> ☑️ Databases: MongoDB, MySQL </li>
-<li> ☑️ Internet Of Things (IOT): Arduino </li>
-<li> ☑️ Augmented Reality (AR): Unity GameEngine </li>
+<li> ☑️ <b>Programming Languages:</b> Python, C, Java, C++ </li>
+<li> ☑️ <b>Artificial Intelligence - Machine Learning:</b> Python, Modules - NumPy, Keras, Tensorflow, Pandas, Scikit, Sklearn,... </li>
+<li> ☑️ <b>Web Development:</b>  MERN Full Dtack, HTML, CSS, JavaScript </li>
+<li> ☑️ <b>Databases:</b> MongoDB, MySQL </li>
+<li> ☑️ <b>Internet Of Things (IOT):</b> Arduino </li>
+<li> ☑️ <b>Augmented Reality (AR):</b> Unity GameEngine </li>
 
 </details>
 
 
 
+
+</br>
+</br>
+
+
+## 🔭 Projects 
+#### ✨ ```MOVICO``` - Movie Recommendation Model    [AI-ML project] 
+#### ✨ ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] ..
+#### ✨ ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] .
+#### ✨ ```M-SCITY```- SmartCity  [ Java-MVC project ] .
+#### ✨```Mono-2-Micro``` - Converting Monolith architecture into Microservices architecture [Docker-Cloud project]
+#### ✨ ```IProcess``` - Image Processing project [Python-Linear Algebra project] .. 
+#### ✨ ```VOTEHUB``` - Fingerprint Voting System [ MERN Stack project ] .
+###
 
 </br>
 </br>

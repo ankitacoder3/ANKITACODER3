@@ -43,7 +43,7 @@
 #### ✨ ```MV-City```- SmartCity  [ Java-MVC project ] 
 #### ✨```Mono-2-Micro``` - Converting Monolith architecture into Microservices architecture [Docker-Cloud project]
 #### ✨ ```IProcess``` - Image Processing project [Python-Linear Algebra project] 
-#### ✨ ```VOTEHUB``` - Fingerprint Voting System [ MERN Stack project ] 
+#### ✨ ```Votehub``` - Fingerprint Voting System [ MERN Stack project ] 
 ###
 
 </br>

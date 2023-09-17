@@ -41,8 +41,8 @@
 #### ✨ ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] 
 #### ✨ ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] 
 #### ✨ ```MV-City```- SmartCity  [ Java-MVC project ] 
-#### ✨```Mono-2-Micro``` - Monolith To Microservices [Docker-Cloud project]
-#### ✨ ``` YAK-2.0``` - Yet Another Kafka 2.0 [Big Data project]
+#### ✨```M2M``` - Monolith 2 Microservices [Docker-Cloud project]
+#### ✨ ``` YAK-2.0``` - Yet Another Kafka [Big Data project]
 #### ✨ ```IProcess``` - Image Processing [Python-Linear Algebra project] 
 #### ✨ ```Votehub``` - Fingerprint Voting System [ MERN Stack project ] 
 ###

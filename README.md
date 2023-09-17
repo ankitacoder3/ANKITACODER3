@@ -40,9 +40,9 @@
 #### ✨ <a href="https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git"> ```MOVICO``` - Movie Recommendation Model    [AI-ML project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Telecom-Churn-Prediction-Model-CHURNLYTICAL.git"> ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS.git"> ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] </a>
-#### ✨ <a href="https://github.com/ankitacoder3/SmartCity-MV_CITY.git"> ```MV-City```- SmartCity  [ Java-MVC project ] </a>
+#### ✨ <a href="https://github.com/ankitacoder3/SmartCity--MV-CITY.git"> ```MV-City```- SmartCity  [ Java-MVC project ] </a>
 #### ✨<a href="https://github.com/ankitacoder3/Monolith-2-Microservices-M2M.git"> ```M2M``` - Monolith 2 Microservices [Docker-Cloud project] </a>
-#### ✨ <a href="https://github.com/ankitacoder3/Yet-Another-Kafka-YAK_2.0.git"> ```YAK-2.0``` - Yet Another Kafka [Big Data project] </a>
+#### ✨ <a href="https://github.com/ankitacoder3/Yet-Another-Kafka--YAK-2.0.git"> ```YAK-2.0``` - Yet Another Kafka [Big Data project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Image-Processing-IProcess.git"> ```IProcess``` - Image Processing [Python-Linear Algebra project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Fingerprint-Voting-System-VOTEHUB.git"> ```Votehub``` - Fingerprint Voting System [ MERN Stack project ] </a>
 ###

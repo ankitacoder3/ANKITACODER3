@@ -37,7 +37,7 @@
 
 
 ## 🔭 Projects 
-#### ✨ ```MOVICO``` - Movie Recommendation Model    [AI-ML project] 
+#### ✨ <a href="https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git"> ```MOVICO``` - Movie Recommendation Model    [AI-ML project] </a>
 #### ✨ ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] 
 #### ✨ ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] 
 #### ✨ ```MV-City```- SmartCity  [ Java-MVC project ] 

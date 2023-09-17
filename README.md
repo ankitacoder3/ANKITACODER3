@@ -40,7 +40,7 @@
 #### ✨ ```MOVICO``` - Movie Recommendation Model    [AI-ML project] 
 #### ✨ ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] ..
 #### ✨ ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] .
-#### ✨ ```M-SCITY```- SmartCity  [ Java-MVC project ] .
+#### ✨ ```MVC-City```- SmartCity  [ Java-MVC project ] .
 #### ✨```Mono-2-Micro``` - Converting Monolith architecture into Microservices architecture [Docker-Cloud project]
 #### ✨ ```IProcess``` - Image Processing project [Python-Linear Algebra project] .. 
 #### ✨ ```VOTEHUB``` - Fingerprint Voting System [ MERN Stack project ] .

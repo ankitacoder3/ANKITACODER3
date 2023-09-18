@@ -37,8 +37,8 @@
 
 
 ## 🔭 Projects 
-#### ✨ <a href="https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git"> ```MOVICO``` - Movie Recommendation Model    [AI-ML project] </a>
-#### ✨ <a href="https://github.com/ankitacoder3/Telecom-Churn-Prediction-Model-CHURNLYTICAL.git"> ```CHURNLYTICAL``` - Telecom Churn Prediction Model  [AI-ML project] </a>
+#### ✨ <a href="https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git"> ```MOVICO``` - Movie Recommendation System  [AI-ML project] </a>
+#### ✨ <a href="https://github.com/ankitacoder3/Telecom-Churn-Prediction-System-CHURNLYTICAL.git"> ```CHURNLYTICAL``` - Telecom Churn Prediction System  [AI-ML project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS.git"> ```DEMS``` - Digitized Environment Monitoring System [IOT-Arduino project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/SmartCity--MV-CITY.git"> ```MV-City```- SmartCity  [ Java-MVC project ] </a>
 #### ✨<a href="https://github.com/ankitacoder3/Monolith-2-Microservices-M2M.git"> ```M2M``` - Monolith 2 Microservices [Docker-Cloud project] </a>

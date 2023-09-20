@@ -3,9 +3,8 @@
 ### This is Ankita.
 ### A final year Computer Science Engineering Student. 
 
-<!--
-### ⚡ An Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
--->
+### ⚡ Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
+
 
 </br>
 

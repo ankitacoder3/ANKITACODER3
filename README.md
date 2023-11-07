@@ -47,7 +47,7 @@
 #### ✨<a href="https://github.com/ankitacoder3/Monolith-2-Microservices-M2M.git"> ```M2M``` - Monolith 2 Microservices [Docker-Cloud project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Yet-Another-Kafka--YAK-2.0.git"> ```YAK-2.0``` - Yet Another Kafka [Big Data project] </a>
 #### ✨ <a href="https://github.com/ankitacoder3/Image-Processing--IMG-IMPACT.git"> ```IMG-IMPACT``` - Image Processing [Python-Linear Algebra project] </a>
-#### ✨ <a href="https://github.com/ankitacoder3/Fingerprint-Voting-System-VOTEHUB.git"> ```Votehub``` - Fingerprint Voting System [ MERN Stack project ] </a>
+#### ✨ <a href="https://github.com/ankitacoder3/Fingerprint-Voting-System-VOTEHUB.git"> ```VOTEHUB``` - Fingerprint Voting System [ MERN Stack project ] </a>
 ###
 
 </br>

@@ -1,7 +1,10 @@
 
 ### Hello there 👋
 ### This is Ankita.
-### A Software Engineer, who completed B.Tech. in Computer Science Engineering, in the year 2024.
+
+### A Software Developer 
+
+### Completed B.Tech. in Computer Science Engineering in 2024
 
 ### ⚡ Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
 

@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 ### This is Ankita.
-### A final year Computer Science Engineering Student. 
+### A Software Engineer, who completed B.Tech. in Computer Science Engineering, in the year 2024.
 
 ### ⚡ Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast.
 

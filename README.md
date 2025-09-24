@@ -4,7 +4,7 @@
 
 ### ⚡ A Software Developer 
 
-### ⚡ Completed B.Tech. in Computer Science Engineering - 2024
+### ⚡ A Computer Science Engineer graduate, with Machine Intelligence - Data Science Specialization
 
 ### ⚡ Artificial Intelligence - Machine Learning and Augmented Reality - Virtual Reality enthusiast
 

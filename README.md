@@ -1,6 +1,6 @@
 
 ### Hello there 👋
-### This is Ankita.
+### This is Ankita
 
 ### ⚡ A Software Developer 
 

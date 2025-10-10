@@ -59,7 +59,7 @@
 ## 📫 Connect with me
 <!--<a href="https://www.linkedin.com/in/ankita-sahoo-20bb39224/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ankita Sahoo | LinkedIn" width="21px"/></a>-->
 <p align="left">
-<a href="https://linkedin.com/in/ankita-sahoo-20bb39224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-sahoo-20bb39224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankita-sahoo-20bb39224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-sahoo3" height="30" width="40" /></a>
 </p>
 
 </br>
